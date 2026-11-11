@@ -3,8 +3,8 @@
 Data and operations analyst in **Atlanta**, working across **healthcare, education, and public policy**.
 
 - 🏥 Consulting on healthcare revenue cycle and practice operations, including Medicaid MCO credentialing
-- 🏫 Previously Senior Data Analyst at a Boston charter school, where I built custom reporting and a data-backed compensation proposal that leadership adopted
-- 🎓 MPA, Ohio State University (John Glenn College of Public Affairs): Outstanding Graduate Capstone Award, 2022
+- 🏫 Previously Data Analyst at a Boston charter school: reporting and analysis across student, staff and HR operations
+- 🎓 MPA, Ohio State University (John Glenn College of Public Affairs): Outstanding Graduate Capstone Award, Outstanding Teaching Assistant Award
 
 **Toolkit:** SQL · R / R Markdown · Python · Tableau · Stata · Excel
 
