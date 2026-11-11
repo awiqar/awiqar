@@ -12,7 +12,7 @@ Data and operations analyst in **Atlanta**, working across **healthcare, educati
 
 #### Featured project
 
-**[Avoidable Emergency Department Use in Georgia](https://github.com/awiqar/georgia-avoidable-ed)** · [read the report →](https://awiqar.github.io/georgia-avoidable-ed/analysis.html)
+**[Avoidable Emergency Department Use in Georgia](https://github.com/awiqar/georgia-avoidable-ed)** · [read the report →](https://awiqar.github.io/georgia-avoidable-ed/analysis.html) · [interactive dashboard →](https://public.tableau.com/app/profile/ahmed.wiqar/viz/AvoidableERUseinGeorgia/AvoidableERUse)
 
 County-level analysis of ambulatory care sensitive ER visits, 2019–2025. Primary care physician supply varies thirtyfold across counties yet predicts nothing; county income is the only significant predictor.
 
